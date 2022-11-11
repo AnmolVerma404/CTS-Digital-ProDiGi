@@ -1,9 +1,12 @@
 <h1 align="center" style="font-size:40px"><b>CTS Digital ProDigi</b></h1>
 <h3 align="center" style="font-size:30px">Connected experiences for consumers</h3>
 
+<hr>
+
 ### **Problem Statement**
 #### **Connected experiences for consumers**
 How do you ensure that consumers are loyal to brands and will not switch between brands? Brenda is a retail store assistant, working for a large cosmetics retailer. She has been noticing that many of her loyal customers who would buy a certain shade of lipstick or eye shadow have been switching to a rival brand which makes similar shades at a lower price. However, she realizes that her brand has much betterquality products, and would like to provide attractive offers to her customers to retain them. She would like to have solutions for: • Digitizing the buying cycle of the consumer through D2C (Direct-to-Consumer) • Hyper-personalizing consumer experience using insights into individual preferences • Digital marketing campaigns and loyalty programs.
+<hr>
 
 #### **Content**
 - <a href="#backgroundWork">Our background work and studies for this</a>
@@ -17,6 +20,7 @@ How do you ensure that consumers are loyal to brands and will not switch between
 - <a href="#howWillThisWork">How will this work?</a>
 
 
+<hr>
 <h2 style="font-size:20px" id="backgroundWork"><b>Our background work and studies for this</b></h2>
 
 - So looking at our topic we tend to know of the basic points about how consumers are loyal to brand .You should always provide value to your customers and do so in a way that makes you stand out from competitors. And this doesn’t just apply to the goods or services they may purchase from you. Customers expect a certain level of **quality**. Exceed it. Maintaining a consistent level of quality that offers a no-brainer level of value to the customer will keep them coming back. While your brand may resonate with your persona, if your behind-the scenes-brand is not responsive to your audience, you can quickly lose that **loyalty**. For example, if someone sends you a message on social media or a question by social or email, having a process to follow up with those individuals is critical to maintaining loyalty and **trust**. Customers will feel more **connected** to the brand if they open up a two-way dialogue, and these passionate customers who take the time to give feedback will be your biggest advocates. This also helps you gain insights on how to improve your offerings and give them exactly what they want.
@@ -25,6 +29,7 @@ How do you ensure that consumers are loyal to brands and will not switch between
 
 - This can be seen through the use of **virtual** shopping associates or customizable products... Allowing for these experiences changes retail from being a shopping destination to becoming an online activity for customers to experience the brand. This is only accelerated with the rise of omni-channel brands. Customers are now equipped with the tools to digitize their experience even inside a physical retail location, bringing their online customer experience into the store through the use of technology. This starts with using behavioral analytics to sort products in a way that maximizes conversation. Then once a customer walks in to the store, he or she can use his or her mobile technology to get product recommendations and be directed to various products and departments.
 
+<hr>
 <h2 style="font-size:20px" id="articlesAndResearch"><b>Reference Articles and Research papers</b></h2>
 
 - [The rise of Direct-to-Consumer. Why D2C is a trend that will change… | by Good Rebels | Medium](https://medium.com/@goodrebels/the-rise-of-direct-to-consumer-7fb82066d40d)
@@ -33,11 +38,13 @@ How do you ensure that consumers are loyal to brands and will not switch between
 
 - [15 Ways To Increase Brand Loyalty And Retain Your Customer Base (forbes.com)](https://www.forbes.com/sites/forbesagencycouncil/2018/03/12/15-ways-to-increase-brand-loyalty-and-retain-your-customer-base/?sh=3a354ef07733)
 
+<hr>
 <h2 style="font-size:20px" id="pastWork"><b>Past Work</b></h2>
 
 - We have some great past experiences as we were **SIH National finalist** and have participated in so many other **national** and **global** level **hackathons** like **Code Gladiators** where our team member reached the **Semi-finals**, **Adobe Analytics** Challenge, **MLH INIT Hackathon** (highest rank secured by team is **31**) and many more. We as a team are proficient with skills like **Blockchain**, MERN stack development, **DevOps**, Microservices, ML and database management.
 - We are tech enthusiast who keep exploring about the different tech stack, are great learners and most importantly innovative thinkers and dedicated workers. If our idea gets selected for this round, we would try to come with some amazing version of project and would scale it make a complete solution for the given problem statement.
 
+<hr>
 <h2 style="font-size:20px" id="existingWork"><b>Existing work in the domain</b></h2>
 
 - Augmented reality is a technology that allows a digital or computer-generated object to exist overlaying the physical world. Using special tools, the user can manipulate this object, change its position, size, or even color, and see how it will look in each possible configuration. 
@@ -52,19 +59,25 @@ How do you ensure that consumers are loyal to brands and will not switch between
 
 
 
+<hr>
 <h2 style="font-size:20px" id="unique"><b>Why is our idea unique?</b></h2>
 
+<hr>
 <h2 style="font-size:20px" id="comparision"><b>Comparision with existing work in this domain</b></h2>
 
+<hr>
 <h2 style="font-size:20px" id="detailedIdea"><b>Detailed Idea</b></h2>
 
+<hr>
 <h2 style="font-size:20px" id="implementation"><b>Implementation</b></h2>
 
 - As a most business **update** and **integrate** their new ideas, our implementation is the same. Adding new features and updating the application will be easy because we will be using **DevOps**. 
 - Using **Docker**, and **Kubernetes** and structuring our application based on **Microservices architecture** each component of our website will be divided into a service. All the services will be self-contained therefore if one of them went down other will run just fine. This customer who is really important to Brenda will be retained. Additional services like **even-bus** will be created to create a different/copy of the database for every service, a response queue for **cashing** requests from **stopped services**, and many more. 
 - We can use modern **JS Frameworks**(React/Next) to build the front end of our web application and the backend + DevOps can be implemented using **NodeJS**, Docker, and Kubernetes. Using these technologies, we will be able to implement our business model so that it can sustain the market demands. Continuous Integration and Development(**CI/CD**) will be easier using web service providers. Using providers like **AWS** and **Asure** we can **deploy** our **Kubernetes Cluster** and integrate the new feature. 
 - Our idea is completely scalable as we will be using Microservices using Node JS, when the Large Cosmetics Retailer shop will be connected to the user via a web app it will face high traffic for that a proper Architecture will be followed so that each service will be independent and even if one goes down the other will be running properly without issue concepts like Event Bus and **Data Synchronization** will be put into use. Using Web Services will **automatically** increase the **servers** on **high-demand** days using an elastic load balancer(**ELB**) therefore we need to pay only for the resources we are using.
-
-
-
+<hr>
 <h2 style="font-size:20px" id="howWillThisWork"><b>How will this work?</b></h2>
+
+- Our team has past experience to develop Web Applications, so this will be a challenging task for us but there is nothing we can't do. We will first create a base app that will serve as a prototype and act as a base then we will release new versions of this application with features that we have promised. This will follow a proper software architecture plan.
+<hr>
+<hr>
