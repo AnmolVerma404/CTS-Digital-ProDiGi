@@ -1,4 +1,6 @@
-<h1  align="center"  ><b style="font-size:40px">CTS Digital ProDigi</b><img src="./images/prodigiLogoRB.png"/>
+<h1  align="center"  ><p><b style="font-size:40px">CTS Digital ProDigi</b><p>
+<br>
+<img src="./images/prodigiLogoRB.png"/>
 </h1>
 
 <h3 align="center" style="font-size:30px">Connected experiences for consumers</h3>
