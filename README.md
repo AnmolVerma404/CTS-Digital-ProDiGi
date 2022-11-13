@@ -56,8 +56,7 @@ How do you ensure that consumers are loyal to brands and will not switch between
 
 - [The rise of Direct-to-Consumer. Why DTC is a trend that will change… | by Good Rebels | Medium](https://medium.com/@goodrebels/the-rise-of-direct-to-consumer-7fb82066d40d)
 
-- [E-Commerce growth in past years due to online retail market]
-(https://www.smartinsights.com/digital-marketing-strategy/online-retail-sales-growth/)
+- [E-Commerce growth in past years due to online retail market](https://www.smartinsights.com/digital-marketing-strategy/online-retail-sales-growth/)
 
 - [Connecting with meaning - Hyper-personalizing the customer experience using data, analytics, and AI (deloitte.com)](https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/deloitte-analytics/ca-en-omnia-ai-marketing-pov-fin-jun24-aoda.pdf)
 
