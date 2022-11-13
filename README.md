@@ -18,6 +18,7 @@ How do you ensure that consumers are loyal to brands and will not switch between
 #### **Content**
 
 - <a href="#backgroundWork">Our background work and studies for this</a>
+- <a href="#caseStudy">A Case Study</a>
 - <a href="#articlesAndResearch">Reference Articles and Research papers</a>
 - <a href="#pastWork">Past Work</a>
 - <a href="#existingWork">Existing work in the domain</a>
@@ -37,9 +38,26 @@ How do you ensure that consumers are loyal to brands and will not switch between
 - This can be seen through the use of **virtual** shopping associates or customizable products... Allowing for these experiences changes retail from being a shopping destination to becoming an online activity for customers to experience the brand. This is only accelerated with the rise of omni-channel brands. Customers are now equipped with the tools to digitize their experience even inside a physical retail location, bringing their online customer experience into the store through the use of technology. This starts with using behavioral analytics to sort products in a way that maximizes conversation. Then once a customer walks in to the store, he or she can use his or her mobile technology to get product recommendations and be directed to various products and departments.
 
 <hr>
+<h2 style="font-size:20px" id="caseStudy"><b>A Case Study</b></h2>
+
+- We looked at the aspect of **Digital Marketing** for the products as one of the main demands for given problem statement is to have connected user experience. After researching upon the problem that most consumers face is **unavailability of products across multiple and cross platforms**.
+
+- We briefly looked upon some of the brands that did ground up work to have a foot in the market and to market their product to as many consumers as possible. **Tupperware**, a brand which is present in almost every household now-a-days. Looking upon the marketing strategy, Tupperware started business from what they call relational managers and doorstep promoters. The brand mainly started with housewife whom they call representatives, whose work was to spread awareness about the product in their own locality and motivate people to become representatives.
+
+- This way they reached millions of households. Now to scale up the business after setting name they have launched **86 shops in 51 cities** across the country, they have **collaboration with e-commerce** platform like Amazon and Flipkart, **100+ home shops**, exclusive online platform i.e., their **local site** along with **55000 direct sellers**.
+
+- We also plan to adopt the strategy where we are able to provide customers a cross platform availability of our products. This way we would be able to **scale our business** and at the same time consumer will be able access and buy catalogs and products with any platform sitting at home. With the recent **growth in online marketing** a particular shift is observed where most of the users prefer to buy products from online platform. The share of sales was around **14% in year 2016** which has grown to around **28% and still increasing**.
+
+- Hence our solution to the given problem statement stands out as a perfect fit which will help to achieve all the criteria of business scalability, uniqueness and would surely add a great value to the business.
+
+
+<hr>
 <h2 style="font-size:20px" id="articlesAndResearch"><b>Reference Articles and Research papers</b></h2>
 
 - [The rise of Direct-to-Consumer. Why DTC is a trend that will change… | by Good Rebels | Medium](https://medium.com/@goodrebels/the-rise-of-direct-to-consumer-7fb82066d40d)
+
+- [E-Commerce growth in past years due to online retail market]
+(https://www.smartinsights.com/digital-marketing-strategy/online-retail-sales-growth/)
 
 - [Connecting with meaning - Hyper-personalizing the customer experience using data, analytics, and AI (deloitte.com)](https://www2.deloitte.com/content/dam/Deloitte/ca/Documents/deloitte-analytics/ca-en-omnia-ai-marketing-pov-fin-jun24-aoda.pdf)
 
